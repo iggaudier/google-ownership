@@ -1,10 +1,10 @@
-Installation
+# Installation
 
-Dependencies
-#npm install
+# Dependencies
+$ npm install
 
-Run setup.js (One-time run only)
-# node setup.js
+# Run setup.js (One-time run only)
+$ node setup.js
 
-Run index.js
-# node index.js
+# Run index.js
+$ node index.js
